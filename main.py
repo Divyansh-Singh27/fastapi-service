@@ -19,7 +19,7 @@ def about():
         "service": "FastAPI ECS Service",
         "version": "1.0.0",
         "description": "A simple FastAPI service running on AWS ECS Fargate",
-        "author": "Divyansh Singh",
+        "author": "Prateek Mishra",
     }
 
 
